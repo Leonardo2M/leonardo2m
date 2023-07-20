@@ -5,13 +5,12 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=leonardo2m" alt="leonardo2m" /></a> </p>
 
-- 🌱 Atualmente estou estudando **Spring Boot com microsserviços na Alura**
+- 💬 Possuo conhecimento em **Java, Spring Boot, HTML, CSS, Angular, TDD, SOLID**
 
-- 💬 Meus conhecimetos **Java, Spring Boot, HTML, CSS, Angular, TDD, SOLID**
+- 🌱 Atualmente estou estudando **Spring Boot com microsserviços na Alura**
 
 - 📫 Email para contato **leonardomm.contato@gmail.com**
 
-<h3 align="left">Connect with me:</h3>
 <p align="left">
 </p>
 
