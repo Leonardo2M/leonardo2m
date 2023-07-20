@@ -1,5 +1,5 @@
-<h1 align="center">Hello there 👋, Eu sou Leonardo Mathues de Miranda.</h1>
-<h3 align="center">Um desenvolvedor focado no back-end com Java e Spring Boot</h3>
+<h1 align="center">Hello there 👋, Eu sou Leonardo Matheus de Miranda.</h1>
+<h3 align="center">Sou um desenvolvedor focado no back-end com Java e Spring Boot</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=leonardo2m&label=Profile%20views&color=0e75b6&style=flat" alt="leonardo2m" /> </p>
 
